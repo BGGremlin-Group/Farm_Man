@@ -1,10 +1,10 @@
-Farm Log V1 Ranch Tracker (Clean Build)
+Farm Manager v1
 ======================================
 
 Files
 -----
-- Farm_LogV1_RanchTracker_Clean.html
-- Farm_LogV1_RanchTracker_Clean_README.txt
+- Farm_ManagerV1.html
+- README.md
 
 What was changed
 ----------------
@@ -18,7 +18,7 @@ The following cleanup changes were applied:
 - Removed user-facing meta/build/demo wording from the interface
 - Kept the main V1 ranch tracking modules intact
 
-What stays in the app
+What in the app
 ---------------------
 - Herd profiles
 - Health logs and doctor/triage records
@@ -33,7 +33,7 @@ What stays in the app
 
 How to use
 ----------
-1. Open Farm_LogV1_RanchTracker_Clean.html in a modern browser.
+1. Open Farm_ManagerV1.html in a modern browser.
 2. Start entering your own ranch data.
 3. Use Save Now to persist changes locally.
 4. Use the Reports + Import/Export section for backups and report output.
